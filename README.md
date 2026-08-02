@@ -1,4 +1,4 @@
-👋 Olá, sou Májda Alvarenga, atualmente morando em Belo Horizonte - MG.
+👋 Olá, sou Májda Alvarenga,
 
 💼 Profissão atual: Analista de Processos, mas estou arriscando na área de dados, mergulhando no universo de Data Science e buscando novos desafios.
 
