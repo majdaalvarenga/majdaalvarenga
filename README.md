@@ -1,9 +1,12 @@
-👋 Olá, sou Májda Alvarenga,
+👋 Olá! Sou Májda Alvarenga.
 
-💼 Profissão atual: Analista de Processos, mas estou arriscando na área de dados, mergulhando no universo de Data Science e buscando novos desafios.
+💼 Atualmente atuo na interseção entre negócio, tecnologia e processos, com experiência em desenvolvimento de produtos digitais e melhoria contínua. Minha trajetória começou na Engenharia Civil e evoluiu para o universo de Product Management, onde encontrei minha paixão por transformar problemas em soluções que geram valor para usuários e empresas.
 
-🔍 Tenho me aprofundado em técnicas de análise de dados, aprendizado de máquina e automação de processos. Estou sempre em busca de projetos interessantes para expandir meu conhecimento e habilidades, além de contribuir para a comunidade de código aberto.
+🚀 Tenho me aprofundado em Product Discovery, Product Delivery, metodologias ágeis, análise de dados e experiência do usuário. Gosto de entender o contexto, definir prioridades, estruturar processos e trabalhar em conjunto com times multidisciplinares para construir produtos de impacto.
 
-🔧 Atualmente, estou explorando ferramentas como Python, Pandas, Scikit-learn, entre outras, para aprimorar minhas habilidades em análise e modelagem de dados.
+🔧 Além da gestão de produto, busco desenvolver uma visão técnica. Estudo desenvolvimento de software e análise de dados para me comunicar melhor com equipes de tecnologia, validar hipóteses e tomar decisões orientadas por dados. Este portfólio, por exemplo, foi desenvolvido por mim utilizando React e TypeScript.
 
-📚 Vamos trocar ideias e aprender juntos!
+📚 Sou uma pessoa curiosa e acredito no aprendizado contínuo. Estou sempre explorando novas ferramentas, metodologias e boas práticas para evoluir como profissional e contribuir para a construção de produtos cada vez melhores.
+
+🤝 Vamos trocar experiências sobre produto, tecnologia e inovação!
+
